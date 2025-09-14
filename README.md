@@ -4,14 +4,17 @@
 โปรเจคนี้เป็นเกม **Swordman** ที่สร้างขึ้นโดยใช้ **Unity**  
 
 ### 1. Anmator
-![Animator]!(https://github.com/narishchi/Swordman/commit/03d6a0f46d2be46719d7b6f13a986f03938d7e12,)
+<img width="1470" height="956" alt="Animator" src="https://github.com/user-attachments/assets/44d7b038-447e-4ec0-a1df-4a892a62729b" />
+
 - การยืน (player_Idle)
 - การเดิน (player_move)
 - การกระโดด (player_jump)
 - การบาดเจ็บ (Hurt)
+
 - การตาย (Death) 
 ### 2. Game 
-![Game]!(https://github.com/narishchi/Swordman/commit/03d6a0f46d2be46719d7b6f13a986f03938d7e12,)
+<img width="1470" height="956" alt="Game" src="https://github.com/user-attachments/assets/5ad1c7e3-bdb1-445e-a8c7-9d381981d44c" />
+
 - เมื่นชนกับสิ่งกีดขวางเลือดจะลด
 - เมื่อ hp = 0 Game over 
 
