@@ -5,6 +5,7 @@
 
 ### 1. Anmator
 ![Animator]!(https://github.com/narishchi/Swordman/commit/03d6a0f46d2be46719d7b6f13a986f03938d7e12,)
+- การยืน (player_Idle)
 - การเดิน (player_move)
 - การกระโดด (player_jump)
 - การบาดเจ็บ (Hurt)
